@@ -9,6 +9,15 @@
     <nav>
         <ul>
             <li>
+                <a href="/tech/games">Games</a>
+            </li>
+            <li>
+                <a href="/tech/artificial_intelligence">AI</a>
+            </li>
+            <li>
+                <a href="/tech/space">Space</a>
+            </li>
+            <li>
                 <a href="/tech/robotics">Robotics</a>
             </li>
             <li>
