@@ -18,8 +18,6 @@
 				<img src={welcome_fallback} alt="Welcome" />
 			</picture>
 		</span>
-
-		to your new<br />SvelteKit app
 	</h1>
 
 	<h2><strong>Text Swap</strong></h2>

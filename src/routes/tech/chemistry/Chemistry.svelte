@@ -3,7 +3,7 @@
 </svelte:head>
 
 <div class="text-column">
-    <h1>Space</h1>
+    <h2>Chemistry</h2>
 </div>
 
 <style>

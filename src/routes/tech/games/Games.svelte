@@ -3,7 +3,7 @@
 </svelte:head>
 
 <div class="text-column">
-    <h1>AI</h1>
+    <h2>Games</h2>
 </div>
 
 <style>
