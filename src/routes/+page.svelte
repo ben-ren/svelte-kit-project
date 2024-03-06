@@ -22,10 +22,7 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
+	<h2><strong>Text Swap</strong></h2>
 	<TextSwap />
 </section>
 
